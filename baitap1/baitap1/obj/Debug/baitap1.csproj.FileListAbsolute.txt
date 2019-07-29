@@ -1,0 +1,6 @@
+E:\net\thuchanh\baitap1\baitap1\bin\baitap1.dll.config
+E:\net\thuchanh\baitap1\baitap1\bin\baitap1.dll
+E:\net\thuchanh\baitap1\baitap1\bin\baitap1.pdb
+E:\net\thuchanh\baitap1\baitap1\obj\Debug\baitap1.csprojResolveAssemblyReference.cache
+E:\net\thuchanh\baitap1\baitap1\obj\Debug\baitap1.dll
+E:\net\thuchanh\baitap1\baitap1\obj\Debug\baitap1.pdb
